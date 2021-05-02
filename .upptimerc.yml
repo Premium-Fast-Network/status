@@ -25,8 +25,6 @@ sites:
     url: https://api.pfndrive.my.id
   - name: PFNDrive Cloud
     url: https://cloud.pfndrive.my.id
-  - name: PFNDrive Cloud API
-    url: https://cloud-api.pfndrive.my.id
   - name: KrmPesan REGION-01
     url: https://region01.krmpesan.com
   - name: KrmPesan REGION-02
