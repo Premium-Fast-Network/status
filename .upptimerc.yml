@@ -11,8 +11,14 @@ sites:
     url: https://panel.premiumfast.net:4083
   - name: Seedbox01
     url: https://s01.pfnservers.net
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: Seedbox02
     url: https://s02.pfnservers.net
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: PFNDrive
     url: https://pfndrive.my.id
 
@@ -27,6 +33,7 @@ status-website:
   navbar:
     - title: Home
       href: /
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
