@@ -3,18 +3,20 @@ owner: Premium-Fast-Network # Your GitHub organization or username, where this r
 repo: status # The name of this repository
 
 sites:
-  - name: PFN
+  - name: PFN Website
     url: https://premiumfast.net
-  - name: Billing
+  - name: PFN Billing
     url: https://manage.premiumfast.net
-  - name: Panel VPS
+  - name: PFN Documentation
+    url: https://docs.premiumfast.net
+  - name: PFN Panel VPS
     url: https://panel.premiumfast.net:4083
-  - name: Seedbox01
+  - name: PFN Seedbox01
     url: https://s01.pfnservers.net
     expectedStatusCodes:
       - 200
       - 401
-  - name: Seedbox02
+  - name: PFN Seedbox02
     url: https://s02.pfnservers.net
     expectedStatusCodes:
       - 200
@@ -25,9 +27,9 @@ sites:
     url: https://api.pfndrive.my.id
   - name: PFNDrive Cloud
     url: https://cloud.pfndrive.my.id
-  - name: KrmPesan REGION-01
+  - name: KrmPesan REG-01
     url: https://region01.krmpesan.com
-  - name: KrmPesan REGION-02
+  - name: KrmPesan REG-02
     url: https://region02.krmpesan.com
     
 status-website:
@@ -35,7 +37,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.premiumfast.net
   # baseUrl: /your-repo-name
-  logoUrl: https://premiumfast.net/favicon.png
+  logoUrl: /assets/logo.png
   name: PFN Status
   introTitle: "**PFN Status Pages** For Monitoring Server and Website."
   navbar:
