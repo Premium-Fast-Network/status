@@ -21,7 +21,17 @@ sites:
       - 401
   - name: PFNDrive
     url: https://pfndrive.my.id
-
+  - name: PFNDrive API
+    url: https://api.pfndrive.my.id
+  - name: PFNDrive Cloud
+    url: https://cloud.pfndrive.my.id
+  - name: PFNDrive Cloud API
+    url: https://cloud-api.pfndrive.my.id
+  - name: KrmPesan REGION-01
+    url: https://region01.krmpesan.com
+  - name: KrmPesan REGION-02
+    url: https://region02.krmpesan.com
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
