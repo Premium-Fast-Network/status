@@ -31,7 +31,7 @@ sites:
     url: https://region01.krmpesan.com
   - name: KrmPesan REG-02
     url: https://region02.krmpesan.com
-  - name: KrmPesan REG-02
+  - name: KrmPesan VM-02
     url: 95.216.36.99
     check: "tcp-ping"
     
