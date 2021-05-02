@@ -11,6 +11,17 @@ sites:
     url: https://docs.premiumfast.net
   - name: PFN Panel VPS
     url: https://panel.premiumfast.net:4083
+    
+  - name: PFN VPS KVM SG01-SSD
+    url: $PFN_VSG01
+    check: "tcp-ping"
+  - name: PFN VPS KVM SG02-NVMe
+    url: PFN_VSG02
+    check: "tcp-ping"
+  - name: PFN VPS KVM DE01-NVMe
+    url: $PFN_VDE01
+    check: "tcp-ping"
+
   - name: PFN Seedbox01
     url: https://s01.pfnservers.net
     expectedStatusCodes:
@@ -21,12 +32,24 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+      
+  - name: PFN VPN US
+    url: $PFN_VPNUS
+    check: "tcp-ping"
+  - name: PFN VPN ID
+    url: $PFN_VPNID
+    check: "tcp-ping"
+  - name: PFN VPN SG
+    url: $PFN_VPNSG
+    check: "tcp-ping"
+
   - name: PFNDrive
     url: https://pfndrive.my.id
   - name: PFNDrive API
     url: https://api.pfndrive.my.id
   - name: PFNDrive Cloud
     url: https://cloud.pfndrive.my.id
+    
   - name: KrmPesan REG-01
     url: https://region01.krmpesan.com
   - name: KrmPesan REG-02
@@ -39,6 +62,12 @@ sites:
     check: "tcp-ping"
   - name: KrmPesan VM-04
     url: $KRMPESAN_VM04
+    check: "tcp-ping"
+  - name: KrmPesan CORE-01
+    url: $KRMPESAN_CORE01
+    check: "tcp-ping"
+  - name: KrmPesan CORE-02
+    url: $KRMPESAN_CORE02
     check: "tcp-ping"
     
 status-website:
