@@ -9,21 +9,24 @@ sites:
     url: https://manage.premiumfast.net
   - name: Panel VPS
     url: https://panel.premiumfast.net:4083
+  - name: Seedbox01
+    url: https://s01.pfnservers.net
+  - name: Seedbox02
+    url: https://s02.pfnservers.net
+  - name: PFNDrive
+    url: https://pfndrive.my.id
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.premiumfast.net
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://premiumfast.net/favicon.png
   name: PFN Status
   introTitle: "**PFN Status Pages** For Monitoring Server and Website."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
+    - title: Home
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
