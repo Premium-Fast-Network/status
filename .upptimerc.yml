@@ -54,14 +54,14 @@ sites:
     url: https://region01.krmpesan.com
   - name: KrmPesan REG-02
     url: https://region02.krmpesan.com
+  - name: KrmPesan VM-01
+    url: $KRMPESAN_VM01
+    check: "tcp-ping"
   - name: KrmPesan VM-02
     url: $KRMPESAN_VM02
     check: "tcp-ping"
   - name: KrmPesan VM-03
     url: $KRMPESAN_VM03
-    check: "tcp-ping"
-  - name: KrmPesan VM-04
-    url: $KRMPESAN_VM04
     check: "tcp-ping"
   - name: KrmPesan CORE-01
     url: $KRMPESAN_CORE01
