@@ -14,12 +14,15 @@ sites:
     
   - name: KVM VPS SG01-SSD
     url: $PFN_VSG01
+    port: $KVM_VPS_PORT
     check: "tcp-ping"
   - name: KVM VPS SG02-NVMe
     url: PFN_VSG02
+    port: $KVM_VPS_PORT
     check: "tcp-ping"
   - name: KVM VPS DE01-NVMe
     url: $PFN_VDE01
+    port: $KVM_VPS_PORT
     check: "tcp-ping"
 
   - name: PFN Seedbox01
