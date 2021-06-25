@@ -12,13 +12,13 @@ sites:
   - name: PFN Panel VPS
     url: https://panel.premiumfast.net:4083
     
-  - name: PFN VPS KVM SG01-SSD
+  - name: KVM VPS SG01-SSD
     url: $PFN_VSG01
     check: "tcp-ping"
-  - name: PFN VPS KVM SG02-NVMe
+  - name: KVM VPS SG02-NVMe
     url: PFN_VSG02
     check: "tcp-ping"
-  - name: PFN VPS KVM DE01-NVMe
+  - name: KVM VPS DE01-NVMe
     url: $PFN_VDE01
     check: "tcp-ping"
 
