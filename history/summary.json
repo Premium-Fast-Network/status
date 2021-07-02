@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 804,
     "timeDay": 1000,
-    "timeWeek": 848,
+    "timeWeek": 834,
     "timeMonth": 805,
     "timeYear": 804,
     "dailyMinutesDown": {}
@@ -24,13 +24,13 @@
     "slug": "pfn-billing",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.27%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 1428,
-    "timeDay": 1779,
-    "timeWeek": 1670,
+    "timeDay": 1782,
+    "timeWeek": 1689,
     "timeMonth": 1507,
     "timeYear": 1428,
     "dailyMinutesDown": {
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 240,
     "timeDay": 131,
-    "timeWeek": 155,
+    "timeWeek": 174,
     "timeMonth": 202,
     "timeYear": 240,
     "dailyMinutesDown": {}
@@ -68,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 1195,
     "timeDay": 1079,
-    "timeWeek": 1189,
+    "timeWeek": 1165,
     "timeMonth": 1216,
     "timeYear": 1195,
     "dailyMinutesDown": {}
@@ -86,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 221,
     "timeDay": 223,
-    "timeWeek": 221,
+    "timeWeek": 220,
     "timeMonth": 221,
     "timeYear": 221,
     "dailyMinutesDown": {}
@@ -122,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 101,
     "timeDay": 92,
-    "timeWeek": 101,
+    "timeWeek": 102,
     "timeMonth": 101,
     "timeYear": 101,
     "dailyMinutesDown": {}
@@ -140,7 +140,7 @@
     "uptimeYear": "100.00%",
     "time": 450,
     "timeDay": 361,
-    "timeWeek": 444,
+    "timeWeek": 437,
     "timeMonth": 464,
     "timeYear": 450,
     "dailyMinutesDown": {}
@@ -158,7 +158,7 @@
     "uptimeYear": "100.00%",
     "time": 527,
     "timeDay": 457,
-    "timeWeek": 562,
+    "timeWeek": 544,
     "timeMonth": 587,
     "timeYear": 527,
     "dailyMinutesDown": {}
@@ -176,7 +176,7 @@
     "uptimeYear": "100.00%",
     "time": 209,
     "timeDay": 222,
-    "timeWeek": 212,
+    "timeWeek": 215,
     "timeMonth": 206,
     "timeYear": 209,
     "dailyMinutesDown": {}
@@ -194,7 +194,7 @@
     "uptimeYear": "100.00%",
     "time": 248,
     "timeDay": 240,
-    "timeWeek": 245,
+    "timeWeek": 243,
     "timeMonth": 253,
     "timeYear": 248,
     "dailyMinutesDown": {}
@@ -212,7 +212,7 @@
     "uptimeYear": "100.00%",
     "time": 53,
     "timeDay": 64,
-    "timeWeek": 57,
+    "timeWeek": 58,
     "timeMonth": 53,
     "timeYear": 53,
     "dailyMinutesDown": {}
@@ -230,7 +230,7 @@
     "uptimeYear": "100.00%",
     "time": 870,
     "timeDay": 892,
-    "timeWeek": 862,
+    "timeWeek": 874,
     "timeMonth": 866,
     "timeYear": 870,
     "dailyMinutesDown": {}
@@ -248,7 +248,7 @@
     "uptimeYear": "100.00%",
     "time": 973,
     "timeDay": 995,
-    "timeWeek": 956,
+    "timeWeek": 980,
     "timeMonth": 950,
     "timeYear": 973,
     "dailyMinutesDown": {}
@@ -266,7 +266,7 @@
     "uptimeYear": "100.00%",
     "time": 205,
     "timeDay": 234,
-    "timeWeek": 171,
+    "timeWeek": 177,
     "timeMonth": 213,
     "timeYear": 205,
     "dailyMinutesDown": {}
@@ -276,18 +276,19 @@
     "url": "https://region01.krmpesan.com",
     "icon": "https://favicons.githubusercontent.com/region01.krmpesan.com",
     "slug": "krm-pesan-reg-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 734,
-    "timeDay": 718,
-    "timeWeek": 747,
-    "timeMonth": 728,
-    "timeYear": 734,
+    "time": 735,
+    "timeDay": 768,
+    "timeWeek": 768,
+    "timeMonth": 731,
+    "timeYear": 735,
     "dailyMinutesDown": {
+      "2021-07-02": 1,
       "2021-06-30": 7
     }
   },
@@ -304,7 +305,7 @@
     "uptimeYear": "100.00%",
     "time": 735,
     "timeDay": 732,
-    "timeWeek": 740,
+    "timeWeek": 762,
     "timeMonth": 729,
     "timeYear": 735,
     "dailyMinutesDown": {}
@@ -322,7 +323,7 @@
     "uptimeYear": "100.00%",
     "time": 126,
     "timeDay": 110,
-    "timeWeek": 126,
+    "timeWeek": 122,
     "timeMonth": 126,
     "timeYear": 126,
     "dailyMinutesDown": {}
@@ -376,7 +377,7 @@
     "uptimeYear": "100.00%",
     "time": 129,
     "timeDay": 110,
-    "timeWeek": 126,
+    "timeWeek": 123,
     "timeMonth": 130,
     "timeYear": 129,
     "dailyMinutesDown": {}
@@ -394,7 +395,7 @@
     "uptimeYear": "100.00%",
     "time": 129,
     "timeDay": 110,
-    "timeWeek": 126,
+    "timeWeek": 123,
     "timeMonth": 130,
     "timeYear": 129,
     "dailyMinutesDown": {}
