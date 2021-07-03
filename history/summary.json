@@ -44,18 +44,20 @@
     "url": "https://docs.premiumfast.net",
     "icon": "https://favicons.githubusercontent.com/docs.premiumfast.net",
     "slug": "pfn-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 249,
-    "timeWeek": 196,
-    "timeMonth": 205,
+    "timeDay": 219,
+    "timeWeek": 195,
+    "timeMonth": 204,
     "timeYear": 240,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-03": 1
+    }
   },
   {
     "name": "PFN Panel VPS",
