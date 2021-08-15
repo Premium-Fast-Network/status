@@ -137,19 +137,19 @@
     "url": "https://s01.pfnservers.net",
     "icon": "https://favicons.githubusercontent.com/s01.pfnservers.net",
     "slug": "pfn-seedbox01",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 456,
-    "timeDay": 400,
-    "timeWeek": 487,
-    "timeMonth": 464,
-    "timeYear": 456,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "78.02%",
+    "uptimeWeek": "96.86%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.79%",
+    "time": 455,
+    "timeDay": 396,
+    "timeWeek": 475,
+    "timeMonth": 462,
+    "timeYear": 455,
     "dailyMinutesDown": {
-      "2021-08-15": 1
+      "2021-08-15": 316
     }
   },
   {
