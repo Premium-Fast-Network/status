@@ -266,10 +266,10 @@
     "url": "https://cloud.pfndrive.my.id",
     "icon": "https://favicons.githubusercontent.com/cloud.pfndrive.my.id",
     "slug": "pfn-drive-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
@@ -277,7 +277,9 @@
     "timeWeek": 205,
     "timeMonth": 205,
     "timeYear": 203,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-11": 1
+    }
   },
   {
     "name": "KrmPesan REG-01",
