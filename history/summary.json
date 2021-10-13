@@ -25,11 +25,11 @@
     "url": "https://manage.premiumfast.net",
     "icon": "https://favicons.githubusercontent.com/manage.premiumfast.net",
     "slug": "pfn-billing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 1565,
     "timeDay": 1684,
@@ -37,6 +37,7 @@
     "timeMonth": 1658,
     "timeYear": 1565,
     "dailyMinutesDown": {
+      "2021-10-13": 4,
       "2021-07-23": 24,
       "2021-07-01": 25
     }
@@ -158,18 +159,20 @@
     "url": "https://s02.pfnservers.net",
     "icon": "https://favicons.githubusercontent.com/s02.pfnservers.net",
     "slug": "pfn-seedbox02",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 571,
     "timeDay": 503,
     "timeWeek": 632,
     "timeMonth": 606,
     "timeYear": 571,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 3
+    }
   },
   {
     "name": "PFN VPN US",
@@ -230,28 +233,30 @@
     "url": "https://pfndrive.my.id",
     "icon": "https://favicons.githubusercontent.com/pfndrive.my.id",
     "slug": "pfn-drive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 866,
     "timeDay": 909,
     "timeWeek": 828,
     "timeMonth": 855,
     "timeYear": 866,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 3
+    }
   },
   {
     "name": "PFNDrive API",
     "url": "https://api.pfndrive.my.id",
     "icon": "https://favicons.githubusercontent.com/api.pfndrive.my.id",
     "slug": "pfn-drive-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 970,
@@ -259,7 +264,9 @@
     "timeWeek": 908,
     "timeMonth": 962,
     "timeYear": 970,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 2
+    }
   },
   {
     "name": "PFNDrive Cloud",
@@ -267,18 +274,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.pfndrive.my.id",
     "slug": "pfn-drive-cloud",
     "status": "down",
-    "uptime": "80.93%",
+    "uptime": "80.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "80.93%",
+    "uptimeYear": "80.80%",
     "time": 203,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2021-10-13": 66,
+      "2021-10-13": 447,
       "2021-10-12": 1440,
       "2021-10-11": 1440,
       "2021-10-10": 1440,
@@ -318,10 +325,10 @@
     "url": "https://region01.krmpesan.com",
     "icon": "https://favicons.githubusercontent.com/region01.krmpesan.com",
     "slug": "krm-pesan-reg-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 728,
@@ -330,6 +337,7 @@
     "timeMonth": 724,
     "timeYear": 728,
     "dailyMinutesDown": {
+      "2021-10-13": 2,
       "2021-09-15": 7,
       "2021-07-02": 15,
       "2021-06-30": 7
@@ -340,10 +348,10 @@
     "url": "https://region02.krmpesan.com",
     "icon": "https://favicons.githubusercontent.com/region02.krmpesan.com",
     "slug": "krm-pesan-reg-02",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 731,
@@ -351,7 +359,9 @@
     "timeWeek": 695,
     "timeMonth": 726,
     "timeYear": 731,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 1
+    }
   },
   {
     "name": "KrmPesan VM-01",
