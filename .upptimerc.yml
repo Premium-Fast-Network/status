@@ -65,8 +65,10 @@ sites:
     url: https://pfndrive.my.id
   - name: PFNDrive API
     url: https://api.pfndrive.my.id
-  - name: PFNDrive Console
-    url: https://console.pfndrive.my.id
+  - name: PFNDrive Console [DEV]
+    url: https://console-dev.pfndrive.my.id
+  - name: PFNDrive API [DEV]
+    url: https://api-dev.pfn.my.id
     
   - name: KrmPesan REG-01
     url: https://region01.krmpesan.com
