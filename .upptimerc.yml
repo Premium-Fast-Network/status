@@ -11,20 +11,35 @@ sites:
     url: https://docs.premiumfast.net
   - name: PFN Panel VPS
     url: https://panel.premiumfast.net:4083
+  - name: PFN Panel VPS EU
+    url: https://panel-eu.premiumfast.net:4083
     
-  - name: KVM VPS SG01-SSD
-    url: $PFN_VSG01
+  - name: KVM VPS SG02-NVMe
+    url: $PFN_VSG02
     port: $KVM_VPS_PORT
     check: "tcp-ping"
-  - name: KVM VPS SG02-NVMe
-    url: PFN_VSG02
+  - name: KVM VPS SG03-NVMe
+    url: $PFN_VSG03
     port: $KVM_VPS_PORT
     check: "tcp-ping"
   - name: KVM VPS DE01-NVMe
     url: $PFN_VDE01
     port: $KVM_VPS_PORT
     check: "tcp-ping"
-
+  - name: KVM VPS DE02-NVMe
+    url: $PFN_VDE02
+    port: $KVM_VPS_PORT
+    check: "tcp-ping"
+  - name: KVM VPS DE03-NVMe
+    url: $PFN_VDE03
+    port: $KVM_VPS_PORT
+    check: "tcp-ping"
+    
+  - name: GRE-DE03
+    url: $PFN_GREDE03
+    port: 22
+    check: "tcp-ping"
+    
   - name: PFN Seedbox01
     url: https://s01.pfnservers.net
     expectedStatusCodes:
@@ -50,8 +65,8 @@ sites:
     url: https://pfndrive.my.id
   - name: PFNDrive API
     url: https://api.pfndrive.my.id
-  - name: PFNDrive Cloud
-    url: https://cloud.pfndrive.my.id
+  - name: PFNDrive Console
+    url: https://console.pfndrive.my.id
     
   - name: KrmPesan REG-01
     url: https://region01.krmpesan.com
