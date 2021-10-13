@@ -102,11 +102,17 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: /assets/logo.png
   name: PFN Status
-  introTitle: "**PFN Status Pages** For Monitoring Server and Website."
+  introTitle: "**PFN Status Pages** - Realtime Monitoring Server and Website."
   navbar:
     - title: Home
       href: /
-  theme: dark
+    - title: Product
+      href: https://premiumfast.net
+    - title: Billing
+      href: https://manage.premiumfast.net
+    - title: Contact
+      href: https://manage.premiumfast.net/contact.php
+  theme: light
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
