@@ -210,9 +210,9 @@
     "url": "https://s01.pfnservers.net",
     "icon": "https://favicons.githubusercontent.com/s01.pfnservers.net",
     "slug": "pfn-seedbox01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -222,6 +222,7 @@
     "timeMonth": 502,
     "timeYear": 465,
     "dailyMinutesDown": {
+      "2021-11-10": 0,
       "2021-08-15": 316
     }
   },
