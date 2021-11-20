@@ -84,9 +84,9 @@
     "url": "https://panel-eu.premiumfast.net:4083",
     "icon": "https://favicons.githubusercontent.com/panel-eu.premiumfast.net",
     "slug": "pfn-panel-vps-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,7 +95,9 @@
     "timeWeek": 1099,
     "timeMonth": 1133,
     "timeYear": 1299,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-20": 0
+    }
   },
   {
     "name": "KVM VPS SG02-NVMe",
