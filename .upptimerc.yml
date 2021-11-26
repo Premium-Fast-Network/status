@@ -69,11 +69,17 @@ sites:
     url: https://console-dev.pfndrive.my.id
   - name: PFNDrive API [DEV]
     url: https://api-dev.pfn.my.id
-    
+
+  - name: KrmPesan Documentation
+    url: https://docs.krmpesan.com
   - name: KrmPesan REG-01
     url: https://region01.krmpesan.com
   - name: KrmPesan REG-02
     url: https://region02.krmpesan.com
+  - name: KrmPesan Console
+    url: https://console.krmpesan.com
+  - name: KrmPesan API
+    url: https://api.krmpesan.com
     
   - name: KrmPesan VM-01
     check: "tcp-ping"
