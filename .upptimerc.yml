@@ -119,6 +119,7 @@ status-website:
     - title: Contact
       href: https://manage.premiumfast.net/contact.php
   theme: light
+  js: "function contains(t,n){var e=document.querySelectorAll(t);return Array.prototype.filter.call(e,function(t){return RegExp(n).test(t.textContent)})}window.onload = function() {setTimeout(function(){foundDivsActiveIncidents=contains('section','Active Incidents');foundDivsActiveIncidents[0].remove();foundDivsPastIncidents=contains('section','Past Incidents');foundDivsPastIncidents[0].remove();}, 5000);}"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
