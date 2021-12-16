@@ -444,18 +444,18 @@
     "icon": "https://favicons.githubusercontent.com/console.krmpesan.com",
     "slug": "krm-pesan-console",
     "status": "down",
-    "uptime": "99.04%",
-    "uptimeDay": "80.43%",
-    "uptimeWeek": "97.20%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.04%",
+    "uptime": "98.97%",
+    "uptimeDay": "79.05%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "98.97%",
     "time": 903,
     "timeDay": 1000,
     "timeWeek": 854,
     "timeMonth": 903,
     "timeYear": 903,
     "dailyMinutesDown": {
-      "2021-12-16": 282
+      "2021-12-16": 302
     }
   },
   {
@@ -463,19 +463,19 @@
     "url": "https://api.krmpesan.com",
     "icon": "https://favicons.githubusercontent.com/api.krmpesan.com",
     "slug": "krm-pesan-api",
-    "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "89.34%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
-    "time": 820,
-    "timeDay": 743,
-    "timeWeek": 779,
-    "timeMonth": 820,
-    "timeYear": 820,
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "88.02%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
+    "time": 816,
+    "timeDay": 737,
+    "timeWeek": 773,
+    "timeMonth": 816,
+    "timeYear": 816,
     "dailyMinutesDown": {
-      "2021-12-16": 153
+      "2021-12-16": 172
     }
   },
   {
