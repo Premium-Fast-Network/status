@@ -443,10 +443,10 @@
     "url": "https://console.krmpesan.com",
     "icon": "https://favicons.githubusercontent.com/console.krmpesan.com",
     "slug": "krm-pesan-console",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 903,
@@ -454,17 +454,19 @@
     "timeWeek": 854,
     "timeMonth": 903,
     "timeYear": 903,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-16": 1
+    }
   },
   {
     "name": "KrmPesan API",
     "url": "https://api.krmpesan.com",
     "icon": "https://favicons.githubusercontent.com/api.krmpesan.com",
     "slug": "krm-pesan-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 860,
@@ -472,7 +474,9 @@
     "timeWeek": 858,
     "timeMonth": 860,
     "timeYear": 860,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-16": 1
+    }
   },
   {
     "name": "KrmPesan VM-01",
