@@ -39,7 +39,7 @@ sites:
     url: $PFN_GREDE04
     port: $GRE_PING_PORT
     check: "tcp-ping"
-   - name: GRE-DE05
+  - name: GRE-DE05
     url: $PFN_GREDE05
     port: $GRE_PING_PORT
     check: "tcp-ping"
