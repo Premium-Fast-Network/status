@@ -22,24 +22,28 @@ sites:
     url: $PFN_VSG03
     port: $KVM_VPS_PORT
     check: "tcp-ping"
-  - name: KVM VPS DE01-NVMe
-    url: $PFN_VDE01
-    port: $KVM_VPS_PORT
-    check: "tcp-ping"
   - name: KVM VPS DE02-NVMe
     url: $PFN_VDE02
     port: $KVM_VPS_PORT
     check: "tcp-ping"
-  - name: KVM VPS DE03-NVMe
-    url: $PFN_VDE03
+  - name: KVM VPS DE04-NVMe
+    url: $PFN_VDE04
+    port: $KVM_VPS_PORT
+    check: "tcp-ping"
+  - name: KVM VPS DE05-NVMe
+    url: $PFN_VDE05
     port: $KVM_VPS_PORT
     check: "tcp-ping"
     
-  - name: GRE-DE03
-    url: $PFN_GREDE03
-    port: 22
+  - name: GRE-DE04
+    url: $PFN_GREDE04
+    port: $GRE_PING_PORT
     check: "tcp-ping"
-    
+   - name: GRE-DE05
+    url: $PFN_GREDE05
+    port: $GRE_PING_PORT
+    check: "tcp-ping"
+ 
   - name: PFN Seedbox01
     url: https://s01.pfnservers.net
     expectedStatusCodes:
