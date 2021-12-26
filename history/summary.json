@@ -84,19 +84,19 @@
     "url": "https://panel-eu.premiumfast.net:4083",
     "icon": "https://favicons.githubusercontent.com/panel-eu.premiumfast.net",
     "slug": "pfn-panel-vps-eu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1206,
-    "timeDay": 1191,
-    "timeWeek": 1031,
-    "timeMonth": 1096,
-    "timeYear": 1206,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 1203,
+    "timeDay": 1091,
+    "timeWeek": 1027,
+    "timeMonth": 1093,
+    "timeYear": 1203,
     "dailyMinutesDown": {
-      "2021-12-26": 0
+      "2021-12-26": 28
     }
   },
   {
