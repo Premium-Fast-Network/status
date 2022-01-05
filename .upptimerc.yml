@@ -80,8 +80,8 @@ sites:
     url: https://region01.krmpesan.com
   - name: KrmPesan REG-02
     url: https://region02.krmpesan.com
-  - name: KrmPesan Console
-    url: https://console.krmpesan.com
+  - name: KrmPesan App
+    url: https://app.krmpesan.com
   - name: KrmPesan API
     url: https://api.krmpesan.com
     
