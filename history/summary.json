@@ -70,10 +70,10 @@
     "url": "https://panel.premiumfast.net:4083",
     "icon": "https://favicons.githubusercontent.com/panel.premiumfast.net",
     "slug": "pfn-panel-vps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1301,
@@ -81,7 +81,9 @@
     "timeWeek": 1506,
     "timeMonth": 1392,
     "timeYear": 1301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-17": 1
+    }
   },
   {
     "name": "PFN Panel VPS EU",
