@@ -1,7 +1,7 @@
 url: https://www.premiumfast.net
-status: up
-code: 200
-responseTime: 990
-lastUpdated: 2022-03-09T23:17:11.271Z
+status: down
+code: 503
+responseTime: 684
+lastUpdated: 2022-03-10T01:55:21.984Z
 startTime: Sun May 02 2021 15:54:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
