@@ -308,9 +308,9 @@
     "url": "$PFN_VPNID",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pfn-vpn-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -319,7 +319,9 @@
     "timeWeek": 239,
     "timeMonth": 237,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-21": 0
+    }
   },
   {
     "name": "PFN VPN SG",
