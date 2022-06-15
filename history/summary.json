@@ -313,12 +313,12 @@
     "status": "up",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.18%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.82%",
     "uptimeYear": "99.90%",
     "time": 235,
     "timeDay": 186,
-    "timeWeek": 261,
+    "timeWeek": 277,
     "timeMonth": 239,
     "timeYear": 233,
     "dailyMinutesDown": {
@@ -350,10 +350,10 @@
     "url": "https://pfndrive.my.id",
     "icon": "https://favicons.githubusercontent.com/pfndrive.my.id",
     "slug": "pfn-drive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1028,
@@ -362,6 +362,7 @@
     "timeMonth": 1283,
     "timeYear": 1048,
     "dailyMinutesDown": {
+      "2022-06-15": 1,
       "2021-10-13": 61
     }
   },
