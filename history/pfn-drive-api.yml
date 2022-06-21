@@ -1,7 +1,7 @@
 url: https://api.pfndrive.my.id
-status: up
-code: 200
-responseTime: 1141
-lastUpdated: 2022-06-20T23:17:39.789Z
+status: down
+code: 522
+responseTime: 29642
+lastUpdated: 2022-06-21T06:40:58.192Z
 startTime: Sun May 02 2021 15:22:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
