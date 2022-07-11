@@ -568,10 +568,10 @@
     "url": "$KRMPESAN_VM03",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "krm-pesan-vm-03",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
@@ -579,7 +579,9 @@
     "timeWeek": 148,
     "timeMonth": 143,
     "timeYear": 136,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-11": 1
+    }
   },
   {
     "name": "KrmPesan CORE-01",
