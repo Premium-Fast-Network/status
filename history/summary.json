@@ -513,11 +513,11 @@
     "icon": "https://favicons.githubusercontent.com/api.krmpesan.com",
     "slug": "krm-pesan-api",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 823,
     "timeDay": 766,
     "timeWeek": 818,
@@ -551,10 +551,10 @@
     "url": "$KRMPESAN_CORE02",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "krm-pesan-core-02",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
@@ -562,6 +562,8 @@
     "timeWeek": 158,
     "timeMonth": 140,
     "timeYear": 127,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-17": 1
+    }
   }
 ]
